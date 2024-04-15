@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=CFW
+Comment=Code Editing. Redefined.
+Exec=/opt/clashGui/clashgui/cfw
+Icon=/opt/clashGui/clashgui/clash.jpeg
+Type=Application
+Categories=TextEditor;Development;IDE;
+
+
